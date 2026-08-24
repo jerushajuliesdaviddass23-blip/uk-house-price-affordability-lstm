@@ -1,0 +1,6 @@
+Region,DM_statistic,p_value,Significant_at_0.05,Better_model
+London,-0.5956023445409883,0.5575190801125673,False,Single-task
+North West,-9.391708306015882,3.734297315816093e-09,True,Single-task
+South East,1.6383152398297918,0.11558030777110195,False,Multi-task
+Wales,4.715129198710197,0.00010524602340389322,True,Multi-task
+Yorkshire and The Humber,-5.73289131494864,9.119257573075856e-06,True,Single-task
