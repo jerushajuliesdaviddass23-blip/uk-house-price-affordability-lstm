@@ -1,4 +1,4 @@
-# UK House Price & Affordability Forecasting (Multi-Task LSTM)
+# Navigating the UK Property Market Predictive Analysis of House Price Index Trends with Affordability Modelling and Explainable Deep Learning
 
 MSc Data Science dissertation project, Manchester Metropolitan University, 2026.
 
